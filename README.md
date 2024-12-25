@@ -1,6 +1,12 @@
-#MACHINE LEARNING REPO
-#PLEASE HAVE A LOOK
+# Deep Learning And Machine Learning Repository
 
+## I have mainly used PyTorch And Tensorflow For The Notebooks
 
-# I HAVE MAINLY USED PYTORCH HERE WITH THE CUDA KERNEL PACKAGES SO INSTALL IT BEFORE LOCAL USE
-# I ALSO USE TENSORFLOW IN SOME NOTEBOOKS
+Topics Which I Have Covered here :
+  1 ANN
+  2 CNN
+  3 Transfer Learning
+  4 Models Like ResNet and VGG16
+  5 Explored different Datasets Like MNIST CIFAR SATELLITE DATASET EUROSAT RGB etc
+
+PLEASE HAVE A LOOK
